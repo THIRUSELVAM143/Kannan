@@ -4,7 +4,7 @@ import './App.css';
 const business = {
   name: 'PanelForm',
   phone: '+91 7603989129',
-  email: '[emails]',
+  email: 'thiruselvam349@gmail.com',
   address: '[address], Erode, Tamil Nadu, India',
 };
 
